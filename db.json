@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "userInfo": {
+        "id": 1,
+        "name": "Michal",
+        "password": "abcde",
+        "expenses": {
+          "january": [],
+          "february": []
+        }
+      }
+    },
+    {
+      "userInfo": {
+        "id": 2,
+        "name": "Edyta",
+        "password": "abcde",
+        "expenses": {
+          "january": [],
+          "february": []
+        }
+      }
+    }
+  ]
+}
