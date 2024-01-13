@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/burger-api.git"
+    "url": "git+https://github.com/michalwojcieszek/users-fake-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/burger-api/issues"
+    "url": "https://github.com/michalwojcieszek/users-fake-api/issues"
   },
-  "homepage": "https://github.com/kubowania/burger-api#readme",
+  "homepage": "https://github.com/michalwojcieszek/users-fake-api#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
